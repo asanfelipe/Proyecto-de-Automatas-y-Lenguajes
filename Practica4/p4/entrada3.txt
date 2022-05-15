@@ -1,0 +1,23 @@
+uno	1
+dos	2
+uno	1
+dos	2
+uno
+dos
+cuatro
+cinco
+funcion1	-10
+uno	10
+cierre	-999
+function2	-12
+uno	10
+funcion1	100
+tres	3
+function2
+uno
+funcion1
+tres
+dos
+cuatro
+cierre	-999
+funcion1
